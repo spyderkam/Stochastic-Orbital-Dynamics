@@ -1,14 +1,16 @@
 # Research Direction: Stochastic Orbital Dynamics
 
+*Claude Sonnet 3.7*
+
 ## Starting Point: The Papers
 
 Three papers formed the context for this discussion:
 
-1. **Probabilistic Targeting with Gaussian Positional Uncertainty** — integrating a 2D Gaussian PDF over a circular aim-region to compute hit probability, with a closed-form special case when aim-point and threat coincide, and a polar coordinate formulation for the general case.
+  1. **Probabilistic Targeting with Gaussian Positional Uncertainty** — integrating a 2D Gaussian PDF over a circular aim-region to compute hit probability, with a closed-form special case when aim-point and threat coincide, and a polar coordinate formulation for the general case.
 
-1. **Collision Probability Assessment for Spherically Symmetric Debris Cloud Models** — a Monte Carlo-based Poisson process model for the ~120 second spherical phase after fragmentation, addressing the methodological gap in the immediate post-fragmentation period.
+  2. **Collision Probability Assessment for Spherically Symmetric Debris Cloud Models** — a Monte Carlo-based Poisson process model for the ~120 second spherical phase after fragmentation, addressing the methodological gap in the immediate post-fragmentation period.
 
-1. **Probability Generating Function for Independent Trials** — deriving expected value and probability distributions for independent trials via PGFs and the linearity of expectation.
+  3. **Probability Generating Function for Independent Trials** — deriving expected value and probability distributions for independent trials via PGFs and the linearity of expectation.
 
 ## Choosing a New Research Direction
 
